@@ -1,13 +1,6 @@
 git_practice
 ============
-asdasd
-asd
-asd
-asd
-as
-da
-sd
-asd
-as
-das
-d
+asdads
+123123
+123123
+asdads
